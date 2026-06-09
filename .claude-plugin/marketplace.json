@@ -1,0 +1,13 @@
+{
+  "name": "conor-skills",
+  "owner": {
+    "name": "Conor Boyland"
+  },
+  "plugins": [
+    {
+      "name": "conor-skills-and-agents",
+      "source": "./",
+      "description": "Conor Boyland's public Claude skills and agents. Writing and editing skills you can install straight into Claude and use today. Updated regularly."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "conor-skills-and-agents",
+  "version": "1.0.0",
+  "description": "Conor Boyland's public skills and agents for Claude. Start with the Humanizer (erases AI slop) and Coarse Sandpaper (tightens any long-form draft). More added over time.",
+  "author": {
+    "name": "Conor Boyland"
+  }
+}
